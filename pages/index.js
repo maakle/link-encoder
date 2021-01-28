@@ -38,7 +38,7 @@ export default function Home() {
             alt="Workflow"
           ></img>
           <h2 className="mt-6 text-center text-3xl font-extrabold text-gray-900">
-            Passbase Email Encoder
+            Passbase Link Encoder
           </h2>
           <p className="mt-2 text-center text-sm text-gray-600 max-w">
             Get started by filling out the two fields below.
