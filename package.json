@@ -16,5 +16,8 @@
     "react-dom": "17.0.1",
     "react-toast-notifications": "^2.4.0",
     "tailwindcss": "^2.0.2"
+  },
+  "engines": {
+    "node": "16.x"
   }
 }
